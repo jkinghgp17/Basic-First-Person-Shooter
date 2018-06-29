@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 3}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -69,7 +69,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &4
 MonoBehaviour:
@@ -136,7 +136,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 41
+  controlID: 104
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -160,7 +160,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 121
+  controlID: 25
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -437,9 +437,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 80320000
     m_LastClickedID: 0
-    m_ExpandedIDs: 345bf6ffd28af6ff9efbffff00000000be300000d2300000f030000018310000b0310000
+    m_ExpandedIDs: 9efbffff00000000c4300000da30000010310000a6310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,14 +490,14 @@ MonoBehaviour:
     height: 538
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 3958.865063918206
+  lastFramingTime: 164.7439200792253
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 39.246822, y: 0.45, z: 47.131474}
+    m_Target: {x: 40.454308, y: 1.5374627, z: 41.76274}
     speed: 2
-    m_Value: {x: 39.246822, y: 0.45, z: 47.131474}
+    m_Value: {x: 40.454308, y: 1.5374627, z: 41.76274}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -523,11 +523,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.06218244, y: 0.93711466, z: -0.22337744, w: 0.26086792}
     speed: 2
-    m_Value: {x: 0.06218244, y: 0.93711466, z: -0.22337744, w: 0.26086792}
+    m_Value: {x: 0.062182438, y: 0.9371146, z: -0.22337744, w: 0.26086792}
   m_Size:
-    m_Target: 3.1681075
+    m_Target: 4.595128
     speed: 2
-    m_Value: 3.1681075
+    m_Value: 4.595128
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -677,19 +677,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts/Weapons
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/Weapons
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Jake\Documents\First Person Shooter Demo
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 982b0000
-    m_LastClickedID: 11160
-    m_ExpandedIDs: 00000000142900002c29000074290000402b0000842b0000b82b00009c2c0000b22c0000ce2d0000202e0000362f00009a2f0000ec2f000000ca9a3bffffff7f
+    m_SelectedIDs: 16290000
+    m_LastClickedID: 10518
+    m_ExpandedIDs: 00000000162900002e29000076290000422b0000862b0000ba2b00009e2c0000b42c0000d42d0000262e00003e2f0000a22f0000f42f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -717,7 +717,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000142900002c29000074290000402b0000842b0000b82b00009c2c0000b22c0000202e0000362f00009a2f0000ec2f0000
+    m_ExpandedIDs: 00000000162900002e29000076290000422b0000862b0000ba2b00009e2c0000b42c0000d42d0000262e00003e2f0000a22f0000f42f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -745,7 +745,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000022c0000cc420000382cf9fff24f000070280000bc520000122c0000822e00003a540000502d000038520000f82f0000183e000038510000c43000004453000000290000063c0000443a0000b43f00003e8200007e400000c242000060410000cc6600002c670000b62c000098b3fdff6870fcff00000000
+    m_ExpandedInstanceIDs: c6230000022c0000cc420000382cf9fff24f000070280000bc520000122c0000822e00003a540000502d000038520000f82f0000183e000038510000c43000004453000000290000063c0000443a0000b43f00003e8200007e400000c242000060410000cc6600002c670000b62c000098b3fdff6870fcff0000000080320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
